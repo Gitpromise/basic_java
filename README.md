@@ -1,2 +1,3 @@
 # basic_java
-ｗｈａｔ　ａｂｏｕｔ　ｊａｖａ　
+what about java 
+加入java基础知识
